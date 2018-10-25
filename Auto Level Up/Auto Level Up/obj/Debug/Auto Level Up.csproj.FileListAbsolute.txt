@@ -1,0 +1,12 @@
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\Auto Level Up.exe.config
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\obj\Debug\Auto Level Up.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\Auto Level Up.exe
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\Auto Level Up.pdb
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\EloBuddy.dll
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\SharpDX.dll
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\obj\Debug\Auto Level Up.exe
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\obj\Debug\Auto Level Up.pdb
+C:\Users\Thomas\Desktop\AutoLevelUp\Auto Level Up\Auto Level Up\bin\Debug\EloBuddy.Sandbox.dll
